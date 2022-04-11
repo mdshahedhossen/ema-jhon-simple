@@ -1,0 +1,32 @@
+.cart{
+   padding: 30px 20px; 
+   top: 0;
+   position: sticky;
+}
+.clear-btn{
+    background-color: #ff3030;
+    font-size: 17px;
+    margin-top: 57px;
+    color: #ffffff;
+    padding: 10px;
+    width: 100%;
+    border: none;
+    border-radius: 5px;
+    display: block
+    
+}
+.review-btn{
+    background-color: #FF9900;
+    color: #ffffff;
+    font-size: 17px;
+    cursor: pointer;
+    margin-top: 16px;
+    padding: 10px;
+    width: 100%;
+    border: none;
+    border-radius: 5px;
+    display: block;
+    text-decoration: none;
+    
+
+}
